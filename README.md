@@ -1,8 +1,13 @@
 COMPANY: CodTech IT Solutions Pvt. Ltd.
+
 NAME: Mansi Pokhriyal
+
 INTERN ID: CT08DA549
+
 DOMAIN: Java Programming
+
 DURATION: 8 Weeks
+
 MENTOR: Neela Santosh
 
 PROJECT TITLE: Java-Based Weather Data Viewer Using REST API
@@ -175,4 +180,5 @@ This project significantly enhanced my technical skills in Java, deepened my und
 
 
 #output:-
+![Image](https://github.com/user-attachments/assets/f37bd952-88de-4e9f-b53e-016d435ef538)
 
